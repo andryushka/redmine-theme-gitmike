@@ -3,7 +3,6 @@ Some changes in fonts configuration for using system font as basic (i prefer Ubu
 ai@bocp.ru
 
 Redmine gitmike theme
-
 ==============
 
 This is github-like theme for Redmine.

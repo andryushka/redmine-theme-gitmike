@@ -1,6 +1,6 @@
 Some changes in fonts configuration for using system font as basic (i prefer Ubuntu Regular and Liberation Mono as monoscape) and adjust font sizes and line weights. 
 
-ai@bocp.ru
+ai
 
 Redmine gitmike theme
 ==============

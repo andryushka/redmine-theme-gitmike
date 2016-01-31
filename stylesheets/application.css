@@ -51,12 +51,10 @@ tt, code, pre {
 #top-menu {
     font-size: 12px; /*Helvetica, arial, freesans, clean, sans-serif;*/
     padding: 10px 10px 2px 20px;
-    background-color: #f3f3f3;
-    background-image: -webkit-linear-gradient(#f9f9f9, #f3f3f3);
-    background-image: linear-gradient(#f9f9f9, #f3f3f3);
+    background-color: whiteSmoke;
     background-repeat: repeat-x;
     text-shadow: 0 1px 0 #fff;
-    border-bottom: 1px solid #e5e5e5;
+    border: 1px solid #ddd;
 }
 
 #top-menu #loggedas {
@@ -306,9 +304,8 @@ h2, h3, h4 {
     background: whiteSmoke none repeat scroll 0 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#fafafa',endColorstr='#eaeaea')";
     border: 1px solid #ddd;
-    border-bottom-color: #ddd;
     border-radius: 3px;
-    margin-right: 0;
+    margin-right: 10px;
     position: relative;
 }
 

@@ -54,7 +54,7 @@ tt, code, pre {
     background-color: whiteSmoke;
     background-repeat: repeat-x;
     text-shadow: 0 1px 0 #fff;
-    border: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
 }
 
 #top-menu #loggedas {

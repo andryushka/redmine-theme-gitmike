@@ -301,14 +301,12 @@ h2, h3, h4 {
 }
 
 #main-menu {
-    left: 0px;
+    left: 0px
     width: 100%;
-    background: #FAFAFA;
-    background: -webkit-linear-gradient(top, #fafafa, #eaeaea);
-    background: linear-gradient(to bottom, #fafafa, #eaeaea);
+    background: whiteSmoke none repeat scroll 0 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#fafafa',endColorstr='#eaeaea')";
-    border: 1px solid #EAEAEA;
-    border-bottom-color: #CACACA;
+    border: 1px solid #ddd;
+    border-bottom-color: #ddd;
     border-radius: 3px;
     margin-right: 0;
     position: relative;

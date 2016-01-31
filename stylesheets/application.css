@@ -349,6 +349,7 @@ h2, h3, h4 {
     color: #000;
     border-bottom: 2px solid #D26911 !important;
     background-color: #4183C4;
+    background-repeat: repeat-x;
 }
 
 #main-menu ul li a.selected:hover {

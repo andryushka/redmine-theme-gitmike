@@ -360,6 +360,7 @@ h2, h3, h4 {
     color: #4183C4;
     border-bottom: 2px solid #CFDCE8;
     background-color: #e6f1f6;
+    background-repeat: repeat-x;
     text-decoration: underline;
 }
 

@@ -37,8 +37,7 @@ tt, code, pre {
 }
 
 #header > h1 {
-    background: url(../images/logo.png) no-repeat 10px 5px;
-    padding: 5px 45px;
+    padding: 5px 10px;
     color: #393939;
 }
 

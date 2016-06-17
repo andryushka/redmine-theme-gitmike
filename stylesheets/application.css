@@ -311,7 +311,9 @@ h2, h3, h4 {
     background-repeat: repeat-x;
     text-decoration: underline;
 }
-table.list tbody td, table.list tbody tr:hover td {}
+table.list tbody td, table.list tbody tr:hover td {
+    vertical-align: middle;
+}
 table.list thead th {
     border-width: 1px;
     border-style: solid;

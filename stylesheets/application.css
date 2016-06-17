@@ -363,9 +363,7 @@ h2, h3, h4 {
     text-decoration: underline;
 }
 
-table.list tbody td, table.list tbody tr:hover td {
-    border: solid 1px #ddd;
-}
+table.list tbody td, table.list tbody tr:hover td {}
 
 table.list thead th {
     border-width: 1px;
@@ -771,7 +769,7 @@ option {
 }
 
 img.gravatar {
-    
+
 }
 
 .controller-wiki div#content > div.contextual {
